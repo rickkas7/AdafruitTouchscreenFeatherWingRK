@@ -1,0 +1,5 @@
+- build: examples/graphicstest_featherwing
+  photon: [0.7.0, 0.8.0-rc.11]
+- build: examples/touchpaint_featherwing
+  photon: [0.7.0, 0.8.0-rc.11]
+  
