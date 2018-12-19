@@ -1,4 +1,4 @@
-# AdafruitTouchscreenFeatherWingRK
+/*
 
 This library should no longer be used. Instead use:
 
@@ -8,4 +8,5 @@ For the 2.4" TFT FeatherWing:
 
 For the 3.5" TFT FeatherWing:
 - [Adafruit\_HX8357\_RK](https://github.com/rickkas7/Adafruit_HX8357_RK)
-
+ 
+*/
